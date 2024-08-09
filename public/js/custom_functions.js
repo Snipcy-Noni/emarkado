@@ -5,6 +5,8 @@
  */
 
 //changes
+
+//another change
 $(document).ready(function() {
     // SETS THE COLOR OF USER DEPENDING ON ITS ROLE (OLD FUNCTION)
     /* function updateBadgeRole(status) {
